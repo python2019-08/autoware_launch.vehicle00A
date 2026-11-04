@@ -1,1 +1,0 @@
-# vehicle00A_sensor_kit_launch
