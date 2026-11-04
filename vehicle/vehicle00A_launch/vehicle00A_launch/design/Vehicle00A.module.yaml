@@ -1,10 +1,10 @@
 autoware_system_design_format: 0.3.1
 
-name: SampleVehicle.module
+name: Vehicle00A.module
 
 instances:
   - name: vehicle_interface
-    entity: SampleVehicleInterface.node
+    entity: Vehicle00AInterface.node
   - name: raw_vehicle_cmd_converter
     entity: RawVehicleCmdConverter.node
 

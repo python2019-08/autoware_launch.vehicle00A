@@ -1,9 +1,9 @@
 autoware_system_design_format: 0.3.0
 
-name: SampleVehicleInterface.node
+name: Vehicle00AInterface.node
 
 package:
-  name: sample_vehicle_launch
+  name: vehicle00A_launch
   provider: autoware
 
 launch:
